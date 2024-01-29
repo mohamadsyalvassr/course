@@ -7,10 +7,16 @@
 * [✍ Assessments](assessments.md)
 * [📂 Course Representative](course-representative.md)
 
-## Week
+## 🗓 Week
 
-* [Week 1](week/week-1.md)
-* [Week 2](week/week-2.md)
+* [Week 1](week/week-1/README.md)
+  * [🧑🏫 Lecture Slides](week/week-1/lecture-slides.md)
+  * [🔖 Appendix](week/week-1/appendix.md)
+* [Week 2](week/week-2/README.md)
+  * [🧑🏫 Lecture Slides](week/week-2/lecture-slides.md)
+  * [💻 Lab Roadmap](week/week-2/lab-roadmap.md)
+  * [✅ Checklist](week/week-2/checklist.md)
+  * [🔖 Appendix](week/week-2/appendix.md)
 * [Week 3](week/week-3.md)
 * [Week 4](week/week-4.md)
 * [Week 5](week/week-5.md)
