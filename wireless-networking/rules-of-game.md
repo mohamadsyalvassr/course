@@ -1,6 +1,6 @@
 # 🎲 Rules of Game
 
-**Selamat datang di Mata Kuliah Cloud Computing!**
+**Selamat datang di Mata Kuliah!**
 
 Terima kasih telah bergabung dalam perjalanan pembelajaran ini. Untuk memastikan pengalaman pembelajaran yang produktif dan adil, saya ingin membagikan aturan permainan (Rules of Game) yang akan membimbing kita selama semester ini. Mohon membaca dengan cermat dan selalu terbuka untuk diskusi dan klarifikasi. Semoga kita dapat menjalani semester ini dengan penuh semangat dan dedikasi!
 
@@ -27,7 +27,7 @@ Terima kasih telah bergabung dalam perjalanan pembelajaran ini. Untuk memastikan
 * UTS akan menguji pemahaman siswa terhadap materi yang telah diajarkan hingga pertengahan semester. Persiapan yang baik sangat dianjurkan.
 * Tidak ada izin khusus untuk absen pada hari ujian kecuali dengan alasan yang sah.
 
-### **Ujian Akhir Semester (UAS) (**40%)
+### \*\*Ujian Akhir Semester (UAS) (\*\*40%)
 
 * UAS akan mencakup seluruh materi pembelajaran selama semester. Kesiapan dan pemahaman menyeluruh menjadi kunci untuk mencapai hasil yang baik.
 * Tidak ada izin khusus untuk absen pada hari ujian kecuali dengan alasan yang sah.
