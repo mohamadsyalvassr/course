@@ -31,14 +31,6 @@ Mata kuliah ini menggunakan metode pembelajaran berikut:
 * Diskusi: tanya jawab dan studi kasus terkait cloud computing
 * Evaluasi: kuis, tugas, dan ujian
 
-## Evaluasi
-
-* Absensi: 10%
-* Tugas Individu: 15%
-* Tugas Kelompok: 15%
-* UTS: 20%
-* UAS: 40%
-
 ## Referensi
 
 Berikut adalah beberapa referensi yang dapat digunakan untuk mempelajari cloud computing:

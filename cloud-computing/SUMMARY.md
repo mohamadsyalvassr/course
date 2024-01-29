@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🏠 Home](README.md)
+* [🎲 Rules of Game](rules-of-game.md)
 * [📒 Syllabus](syllabus.md)
 * [💬 Communication](communication.md)
 * [✍ Assessments](assessments.md)
