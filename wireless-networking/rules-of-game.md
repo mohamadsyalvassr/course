@@ -24,7 +24,7 @@ Terima kasih telah bergabung dalam perjalanan pembelajaran ini. Untuk memastikan
 
 ### **Ujian Tengah Semester (UTS)** (20%)
 
-* UTS akan menguji pemahaman siswa terhadap materi yang telah diajarkan hingga pertengahan semester. Persiapan yang baik sangat dianjurkan.
+* UTS akan menguji pemahaman mahasiswa terhadap materi yang telah diajarkan hingga pertengahan semester. Persiapan yang baik sangat dianjurkan.
 * Tidak ada izin khusus untuk absen pada hari ujian kecuali dengan alasan yang sah.
 
 ### \*\*Ujian Akhir Semester (UAS) (\*\*40%)

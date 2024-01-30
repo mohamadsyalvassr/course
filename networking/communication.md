@@ -11,7 +11,7 @@ Pedoman penting tentang komunikasi yang efektif dalam kelas ini. Mari bersama-sa
 
 ### **Diskusi Kelas:**
 
-* Diskusi di kelas didorong dan dihargai. Siswa diharapkan untuk berpartisipasi secara positif dan menghormati pandangan teman sekelas.
+* Diskusi di kelas didorong dan dihargai. Mahasiswa diharapkan untuk berpartisipasi secara positif dan menghormati pandangan teman sekelas.
 * Hindari penggunaan bahasa atau perilaku yang tidak sesuai atau merugikan.
 
 ### **Pertanyaan dan Klarifikasi:**
@@ -22,7 +22,7 @@ Pedoman penting tentang komunikasi yang efektif dalam kelas ini. Mari bersama-sa
 ### **Penggunaan Teknologi Komunikasi:**
 
 * Penggunaan perangkat elektronik (seperti telepon genggam) selama kelas sebaiknya dibatasi dan hanya digunakan untuk tujuan pendidikan.
-* Siswa diharapkan untuk menghormati kebijakan tentang penggunaan teknologi dalam kelas.
+* Mahasiswa diharapkan untuk menghormati kebijakan tentang penggunaan teknologi dalam kelas.
 
 ### **Etika Komunikasi:**
 
@@ -32,7 +32,7 @@ Pedoman penting tentang komunikasi yang efektif dalam kelas ini. Mari bersama-sa
 ### **Umpan Balik dan Konsultasi:**
 
 * Jika mahasiswa memiliki pertanyaan atau kebutuhan konsultasi, dihimbau untuk mengatur waktu konsultasi dengan pengajar melalui saluran komunikasi yang ditentukan.
-* Pengajar akan memberikan umpan balik secara konstruktif dan membantu pemahaman siswa.
+* Pengajar akan memberikan umpan balik secara konstruktif dan membantu pemahaman mahasiswa.
 
 Semoga aturan komunikasi ini membantu menciptakan lingkungan pembelajaran yang saling mendukung dan efektif. Mari bersama-sama menjalani semester ini dengan penuh kerjasama dan antusiasme!
 
