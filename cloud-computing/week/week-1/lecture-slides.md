@@ -1,5 +1,5 @@
-# 🧑🏫 Lecture Slides
+# 🧑‍🏫 Lecture Slides
 
 ## Introduction
 
-{% embed url="https://docs.google.com/presentation/d/1KB5GA9CIKg0MECxIG8k0a0Gl4Fo57SnHIo19zvQB7Z0/edit?usp=sharing" fullWidth="false" %}
+{% embed url="https://docs.google.com/presentation/d/1CeAAnoOApyrFgsDk7YjlWOYxdL5m8j1b-za9P8lyDLM/edit#slide=id.p" %}
