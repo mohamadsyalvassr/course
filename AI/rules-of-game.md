@@ -1,6 +1,6 @@
 # 🎲 Rules of Game
 
-**Selamat datang di Mata Kuliah Cloud Computing!**
+**Selamat datang di Mata Kuliah Artificial Intelligence!**
 
 Terima kasih telah bergabung dalam perjalanan pembelajaran ini. Untuk memastikan pengalaman pembelajaran yang produktif dan adil, saya ingin membagikan aturan permainan (Rules of Game) yang akan membimbing kita selama semester ini. Mohon membaca dengan cermat dan selalu terbuka untuk diskusi dan klarifikasi. Semoga kita dapat menjalani semester ini dengan penuh semangat dan dedikasi!
 
